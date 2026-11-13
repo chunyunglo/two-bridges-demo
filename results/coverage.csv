@@ -1,0 +1,8 @@
+score,dictionary_pairs,rated_pairs,rated_test_pairs,rho_on_own_test_pairs
+rc_baseline,1215,599,280,0.4358
+rc_u,1215,599,280,0.4944
+rc_uv,1680,840,396,0.4388
+rc_star,1680,840,396,0.4832
+f_star,1680,840,396,0.5517
+a_star,1680,840,396,0.5465
+a_raw,1680,840,396,0.5028

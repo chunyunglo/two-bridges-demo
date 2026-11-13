@@ -1,0 +1,36 @@
+pairs,target,score,n,rho,lo,hi,diff,diff_lo,diff_hi
+"rated dictionary pairs, test half",rating,rc_baseline,280,0.4358,0.3366,0.5254,0.0,0.0,0.0
+"rated dictionary pairs, test half",rating,rc_u,280,0.4944,0.4034,0.5767,0.0585,0.0356,0.0817
+"rated dictionary pairs, test half",rating,rc_uv,280,0.4906,0.3994,0.5753,0.0547,0.0196,0.092
+"rated dictionary pairs, test half",rating,rc_star,280,0.5771,0.4916,0.6548,0.1412,0.0836,0.2009
+"rated dictionary pairs, test half",rating,f_star,280,0.597,0.514,0.6687,0.1611,0.0787,0.2503
+"rated dictionary pairs, test half",rating,a_star,280,0.6174,0.5376,0.6868,0.1816,0.1144,0.253
+"rated dictionary pairs, test half",rating,a_raw,280,0.5389,0.4496,0.6178,0.103,0.0526,0.1544
+"rated dictionary pairs, development half",rating,rc_baseline,319,0.339,0.2384,0.4343,0.0,0.0,0.0
+"rated dictionary pairs, development half",rating,rc_u,319,0.4168,0.3189,0.5093,0.0777,0.0533,0.1038
+"rated dictionary pairs, development half",rating,rc_uv,319,0.4199,0.3207,0.51,0.0808,0.0487,0.1137
+"rated dictionary pairs, development half",rating,rc_star,319,0.5202,0.4334,0.598,0.1812,0.126,0.2383
+"rated dictionary pairs, development half",rating,f_star,319,0.552,0.4691,0.6245,0.2129,0.1157,0.3062
+"rated dictionary pairs, development half",rating,a_star,319,0.5806,0.5006,0.6511,0.2415,0.168,0.3145
+"rated dictionary pairs, development half",rating,a_raw,319,0.5104,0.4221,0.5909,0.1714,0.1218,0.2228
+all dictionary pairs,truth,rc_baseline,1215,0.3787,0.3299,0.4259,0.0,0.0,0.0
+all dictionary pairs,truth,rc_u,1215,0.4446,0.3981,0.4886,0.0659,0.0545,0.0772
+all dictionary pairs,truth,rc_uv,1215,0.4542,0.408,0.4974,0.0755,0.0604,0.0913
+all dictionary pairs,truth,rc_star,1215,0.5662,0.5257,0.6039,0.1875,0.1586,0.216
+all dictionary pairs,truth,f_star,1215,0.6265,0.588,0.6598,0.2478,0.1993,0.2961
+all dictionary pairs,truth,a_star,1215,0.6435,0.6075,0.6754,0.2648,0.2248,0.3037
+all dictionary pairs,truth,a_raw,1215,0.5511,0.5112,0.5874,0.1724,0.1458,0.1989
+pairs that are not dictionary entries,rating,rc_baseline,1059,0.8274,0.8107,0.8421,0.0,0.0,0.0
+pairs that are not dictionary entries,rating,rc_u,1059,0.847,0.8304,0.8604,0.0196,0.0114,0.028
+pairs that are not dictionary entries,rating,rc_uv,1059,0.8494,0.8338,0.8627,0.022,0.0138,0.031
+pairs that are not dictionary entries,rating,rc_star,1059,0.8475,0.832,0.8606,0.0201,0.0115,0.0295
+pairs that are not dictionary entries,rating,f_star,1059,0.825,0.8081,0.8393,-0.0025,-0.0139,0.0089
+pairs that are not dictionary entries,rating,a_star,1059,0.8415,0.8256,0.8552,0.0141,0.0043,0.0235
+pairs that are not dictionary entries,rating,a_raw,1059,0.8471,0.8307,0.8609,0.0197,0.0108,0.0283
+pairs that are not dictionary entries,truth,rc_baseline,1059,0.8887,0.877,0.899,0.0,0.0,0.0
+pairs that are not dictionary entries,truth,rc_u,1059,0.9209,0.9119,0.9288,0.0323,0.0253,0.0405
+pairs that are not dictionary entries,truth,rc_uv,1059,0.9272,0.9184,0.9345,0.0386,0.0308,0.0473
+pairs that are not dictionary entries,truth,rc_star,1059,0.9242,0.915,0.9316,0.0356,0.0274,0.0444
+pairs that are not dictionary entries,truth,f_star,1059,0.8878,0.8756,0.8988,-0.0009,-0.0116,0.0097
+pairs that are not dictionary entries,truth,a_star,1059,0.9117,0.902,0.9203,0.023,0.0146,0.0319
+pairs that are not dictionary entries,truth,a_raw,1059,0.9183,0.9082,0.9265,0.0296,0.022,0.0377
